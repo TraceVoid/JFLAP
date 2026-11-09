@@ -1,4 +1,7 @@
 # JFLAP UWU
+<p align="center">
+  <img src="https://github.com/TraceVoid/JFLAP/blob/main/images/logo.jpg" alt="JFLAP UWU" width="400">
+</p>
 
 Versión modificada de JFLAP por el odio que se tomo a la primer versión :3.
 
