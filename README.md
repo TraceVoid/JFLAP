@@ -232,5 +232,6 @@ El script compila solo las clases modificadas contra el JAR original y las inser
 | v4 | Alfabetos `\d \D \w \W \s \S` en transiciones de Turing y etiquetas de autómatas finitos |
 | v5 | Tabla de reglas para Máquinas de Turing (transiciones y estados) |
 | v6 | Auto desde 1 ms y varios pasos por tick; visor de cinta completa (Tape) |
+| v6_es | Una simple traducción al español de la ultima modificacion de JFLAP |
 
 Cualquier distribución debe incluirla y ser gratuita.
